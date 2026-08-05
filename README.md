@@ -13,11 +13,11 @@
 
 ## Table of Contents
 
-1. [Network Diagram](#network-diagram)
-2. [Network/Subnetting Assignment](#networksubnetting-assignment)
-3. [Decimal to Binary Exercise](#decimal-to-binary-exercise)
-4. [Class C Subnet Exercise](#class-c-subnet-exercise)
-5. [Class B Subnet Exercise](#class-b-subnet-exercise)
+1. [Network Diagram](./Assignments/Network%20Diagram/)
+2. [Network ID](./Assignments/Network%20ID/)
+3. [Decimal to Binary Exercise](./Assignments/Binary%20and%20Decimal%20Conversion/)
+4. [Class C Subnet Exercise](./Assignments/Class%20C%20Subnet/)
+5. [Class B Subnet Exercise](./Assignments/Class%20B%20Subnet/)
 6. [Reflection](./Reflection.md)
 
 
@@ -26,7 +26,7 @@
 
 | # | Assignment | Status |
 |---|---|---|
-| 1 | Network Diagram | Not Started |
+| 1 | Network Diagram | Completed |
 | 2 | Network/Subnetting Assignment | Not Started |
 | 3 | Decimal to Binary Exercise | Not Started |
 | 4 | Class C Subnet Exercise | Not Started |
@@ -36,5 +36,4 @@
 
 ## Tools and Environment Used
 
-- Diagram Designer (or PowerPoint / draw.io)
-- Subnet calculator (optional, for verification)
+- Cisco Packet Tracer
