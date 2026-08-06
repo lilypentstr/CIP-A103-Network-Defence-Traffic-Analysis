@@ -27,8 +27,8 @@
 | # | Assignment | Status |
 |---|---|---|
 | 1 | Network Diagram | Completed |
-| 2 | Network/Subnetting Assignment | Not Started |
-| 3 | Decimal to Binary Exercise | Not Started |
+| 2 | Network ID | Completed |
+| 3 | Decimal to Binary Exercise | Completed |
 | 4 | Class C Subnet Exercise | Not Started |
 | 5 | Class B Subnet Exercise | Not Started |
 
