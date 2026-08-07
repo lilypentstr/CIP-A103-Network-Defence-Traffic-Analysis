@@ -29,8 +29,8 @@
 | 1 | Network Diagram | Completed |
 | 2 | Network ID | Completed |
 | 3 | Decimal to Binary Exercise | Completed |
-| 4 | Class C Subnet Exercise | Completed |
-| 5 | Class B Subnet Exercise | Completed |
+| 4 | Class B Subnet Exercise | Completed |
+| 5 | Class C Subnet Exercise | Completed |
 
 
 
