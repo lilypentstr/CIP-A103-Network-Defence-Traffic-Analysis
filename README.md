@@ -16,8 +16,8 @@
 1. [Network Diagram](./Assignments/Network%20Diagram/)
 2. [Network ID](./Assignments/Network%20ID/)
 3. [Decimal to Binary Exercise](./Assignments/Binary%20and%20Decimal%20Conversion/)
-4. [Class C Subnet Exercise](./Assignments/Class%20C%20Subnet/)
-5. [Class B Subnet Exercise](./Assignments/Class%20B%20Subnet/)
+4. [Class B Subnet Exercise](./Assignments/Class%20B%20Subnet/)
+5. [Class C Subnet Exercise](./Assignments/Class%20C%20Subnet/)
 6. [Reflection](./Reflection.md)
 
 
