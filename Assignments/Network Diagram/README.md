@@ -1,2 +1,2 @@
 ## Assignment Description
-Design and interconnect a network using the following components: 1 Router, 1 Switch, 4 Workstations, 1 Server, 1 Access Point, 2 Wireless Nodes, 1 Printer, 1 VOIP device, and 1 Firewall. Chose one of the options below and upload your completed diagram.
+Design and interconnect a network using the following components: 1 Router, 1 Switch, 4 Workstations, 1 Server, 1 Access Point, 2 Wireless Nodes, 1 Printer, 1 VOIP device, and 1 Firewall. 
