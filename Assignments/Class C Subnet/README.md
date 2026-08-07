@@ -1,0 +1,1 @@
+Utilize this template to develop your own IP Addressing scheme for each class C network below. The IP address of the network  and the subnet sizes are provided as a starting point. 
